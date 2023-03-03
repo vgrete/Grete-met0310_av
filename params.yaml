@@ -1,0 +1,18 @@
+my_turtle:
+  background_b: 255
+  background_g: 86
+  background_r: 69
+rosdistro: 'noetic
+
+  '
+roslaunch:
+  uris:
+    host_grete_virtualbox__38391: http://Grete-VirtualBox:38391/
+rosversion: '1.15.15
+
+  '
+run_id: f054cb16-aeef-11ed-9a14-e7ccca3f2fe3
+turtlesim:
+  background_b: 255
+  background_g: 86
+  background_r: 150
