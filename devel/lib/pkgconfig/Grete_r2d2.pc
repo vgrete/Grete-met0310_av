@@ -1,0 +1,8 @@
+prefix=/home/grete/Grete-met0310_av/devel
+
+Name: Grete_r2d2
+Description: Description of Grete_r2d2
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

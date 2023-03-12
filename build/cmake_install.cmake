@@ -131,6 +131,7 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("/home/grete/Grete-met0310_av/build/gtest/cmake_install.cmake")
+  include("/home/grete/Grete-met0310_av/build/Grete_r2d2/cmake_install.cmake")
   include("/home/grete/Grete-met0310_av/build/beginner_tutorials/cmake_install.cmake")
 
 endif()
